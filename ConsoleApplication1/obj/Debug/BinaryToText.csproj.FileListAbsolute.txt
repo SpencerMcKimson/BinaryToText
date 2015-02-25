@@ -1,0 +1,6 @@
+c:\users\kgbtest01\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\BinaryToText.csprojResolveAssemblyReference.cache
+c:\users\kgbtest01\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\kgbtest01\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\kgbtest01\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\kgbtest01\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\kgbtest01\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
